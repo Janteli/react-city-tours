@@ -1,0 +1,8 @@
+-creating app
+-cleaning up un-necessary files (eg. logo svg)
+-cdn font-awosome
+-cdn google font
+-installing sass
+	npm install sass
+-chage index.css to index.scss
+-create components/Navbar folder and inside of it file - Navbar, Navbar.scss
